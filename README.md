@@ -7,3 +7,7 @@ Contains the entire html code linked with css file.Also has a link to a motivati
 Contains the css styles, which is in-turn linked to the html file.
 
 Screenshots:
+![Capture](https://user-images.githubusercontent.com/60129101/73610744-c490f500-4600-11ea-96c2-0a8150d9e585.JPG)
+![Capture1](https://user-images.githubusercontent.com/60129101/73610748-c9ee3f80-4600-11ea-91ae-edd60440a8cb.JPG)
+![Capture2](https://user-images.githubusercontent.com/60129101/73610750-cd81c680-4600-11ea-8e23-e36bebb728fe.JPG)
+
